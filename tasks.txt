@@ -1,0 +1,18 @@
+Task Name: Yamaha
+Due Date: 2024-09-20
+Priority: High
+Category: Urgent
+Notes: Target comapny no. 1
+---------------------------------------
+Task Name: Zenon
+Due Date: 2024-09-22
+Priority: Medium
+Category: Personal
+Notes: Target Company no. 2
+---------------------------------------
+Task Name: TCS
+Due Date: 2024-09-25
+Priority: Low
+Category: Work
+Notes: Target company no. 3
+---------------------------------------
